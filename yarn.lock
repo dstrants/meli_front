@@ -861,15 +861,15 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@chakra-ui/nuxt@^0.0.10":
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/nuxt/-/nuxt-0.0.10.tgz#e5c25132b3c08adfcf7d04755b1164ddb4a240a1"
-  integrity sha512-YNx9QTWdECjFMMEeo+Cxco8YIw6+iVRXklUfVXJeJ8YvOJ6sC2NjpFuoz1j7Xl9F30PQ4StuFXI4DpDdtWBqcQ==
+"@chakra-ui/nuxt@^0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/nuxt/-/nuxt-0.0.13.tgz#f7259cfe29c04571d61200eb8bb89ddec3da6a82"
+  integrity sha512-h6knbuhRi97v38PNZ6vI7fsLtWBykVVdGgKZ5XaRCEhnrmQLdX9VsF+OMNc9zWPup+iFWh5oThU2UFbOg93sSg==
   dependencies:
-    "@chakra-ui/vue" "^0.6.2"
+    "@chakra-ui/vue" "^0.6.5"
     emotion "^10.0.27"
 
-"@chakra-ui/vue@^0.6.2":
+"@chakra-ui/vue@^0.6.5":
   version "0.6.5"
   resolved "https://registry.yarnpkg.com/@chakra-ui/vue/-/vue-0.6.5.tgz#0deca2305e7ac5c062f391a556bed019995cc223"
   integrity sha512-qrlz4yj+75D8mpFWFcgySSCFcpNODXU/ESXMNHqqhgqj1N6lPE1/kW4O317oQElJ1fc5x5ojuudw0RuwCngH6w==
